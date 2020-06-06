@@ -1,12 +1,13 @@
 # baseline
 
 TODO:
-[] organize all scripts and configs into one folder and subfolders
 
-[] clone from home structure with rsync into above folder
+[ ] organize all scripts and configs into one folder and subfolders
 
-[] push to git so you can pull to any machine
+[ ] clone from home structure with rsync into above folder
 
-[] write script to auto pull all tooling to any new server machines I spin up
+[ ] push to git so you can pull to any machine
+
+[ ] write script to auto pull all tooling to any new server machines I spin up
 
 
