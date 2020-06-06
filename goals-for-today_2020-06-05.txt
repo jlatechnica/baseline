@@ -10,7 +10,7 @@
 ~~~~~~~~~~~~~~~~~~~~~
  interview
 ~~~~~~~~~~~~~~~~~~~~~
-[] question list
+[] question q & a
 
 [] sample code
 
