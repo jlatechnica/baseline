@@ -10,4 +10,4 @@ TODO:
 
 [ ] write script to auto pull all tooling to any new server machines I spin up
 
-
+[ ] fix aws repo
