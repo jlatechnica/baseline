@@ -8,6 +8,6 @@ TODO:
 
 [ ] push to git so you can pull to any machine
 
-[ ] write script to auto pull all tooling to any new server machines I spin up
+[ ] write script to auto pull all tooling to any new server machines spun up
 
 [ ] fix aws repo
