@@ -4,14 +4,14 @@
 ~~~~~~~~~~~~~~~~~~~~~
 [x] make git account
 
-[] open master for server base
+[x] open master for server base
 
 
 ~~~~~~~~~~~~~~~~~~~~~
  interview
 ~~~~~~~~~~~~~~~~~~~~~
-[] question q & a
+[x] question q & a
 
-[] sample code
+[x] sample code
 
 
