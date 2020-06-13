@@ -13,3 +13,5 @@ TODO:
 [x] fix aws repo
 
 [x] fix ssh keys
+
+[ ] new project infra
