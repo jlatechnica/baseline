@@ -12,4 +12,4 @@ TODO:
 
 [x] fix aws repo
 
-[ ] fix ssh keys
+[x] fix ssh keys
