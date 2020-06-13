@@ -11,3 +11,5 @@ TODO:
 [ ] write script to auto pull all tooling to any new server machines spun up
 
 [x] fix aws repo
+
+[ ] fix ssh keys
